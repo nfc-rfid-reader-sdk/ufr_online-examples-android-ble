@@ -2,6 +2,8 @@
 
 Android Java Bluetooth Low Energy pairing and connecting example for uFR Online device.
 
+<b>Programmatically BLE connection without user interaction is possible if BLE security mode is disabled.</b>
+
 ## How to enable BLE mode?
 
 1. Open uFR Online WEB frontend settings page and login.
