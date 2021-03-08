@@ -31,7 +31,6 @@ There are three BLE security modes. Details about all three are shown in table 1
 ## References
 
 
-[uFR Online BLE mdoe document](https://www.d-logic.net/code/nfc-rfid-reader-sdk/ufr-doc/blob/master/uFR_Online_BLE_mode.pdf)
-[uFR Online Quick start guide](https://www.d-logic.net/code/nfc-rfid-reader-sdk/ufr-doc/blob/master/uFR_Online%20-%20Quick_Start_Guide.pdf)
+[uFR Online BLE mode document](https://www.d-logic.net/code/nfc-rfid-reader-sdk/ufr-doc/blob/master/uFR_Online_BLE_mode.pdf)<br/>
+[uFR Online Quick start guide](https://www.d-logic.net/code/nfc-rfid-reader-sdk/ufr-doc/blob/master/uFR_Online%20-%20Quick_Start_Guide.pdf)<br/>
 [IOS example](https://www.d-logic.net/code/nfc-rfid-reader-sdk/ufr-doc/nfc-rfid-reader-sdk/ufr_online-examples-ios-ble)
-
