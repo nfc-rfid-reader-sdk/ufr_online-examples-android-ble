@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="50dp"
+    android:layout_marginTop="70dp"
+    android:layout_marginRight="50dp"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:text="Scan results"
+        android:textAlignment="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textSize="14sp" />
+
+    <Spinner
+        android:id="@+id/txtName"
+        android:layout_width="match_parent"
+        android:layout_height="45dp" />
+
+    <CheckBox
+        android:id="@+id/pairCheck"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:text="Pair device if not already paired"
+        android:textAlignment="center" />
+
+    <Button
+        android:id="@+id/scanBtn"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:text="Scan" />
+
+    <Button
+        android:id="@+id/pairConnectBtn"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:text="Connect" />
+
+    <Button
+        android:id="@+id/beepBtn"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:text="Beep" />
+</LinearLayout>
